@@ -79,6 +79,14 @@ Select "Create Account" and follow steps to setup login credentials for Proton V
 <img src="https://imgur.com/M1PL8oX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once you have logged in, connect to a VPN in another country. Choose the country of your choice and select "Connect". Next, navigate to whatismyipaddress.com to see the IP address of the VPN and compare the results. 
+Once you have logged in, connect to a VPN in another country. Choose the country of your choice and select "Connect". Next, navigate to whatismyipaddress.com to see the IP address of the VPN and compare the results. After navigating to the web browser, you should see the region that you are connected to on the VPN.
+</p>
+<br />
+<h2>Observe VPN connection in Proton VPN Continued</h2>
+<p>
+<img src="https://imgur.com/xVDoIAo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After reviewing the IP address and region for the VPN connection, try to browse a website and observe the location and differences of the site based on the VPN server connection (ie. language, URL, and website content). In this tutorial, we can review that the region in located in the Netherlands. After completing the lab, make sure that you delete your resource group in Azure!
 </p>
 <br />
