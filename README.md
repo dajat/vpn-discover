@@ -42,12 +42,36 @@ Login to Microsoft Azure to create a Virtual Machine. Search for "Virtual Machin
 Next, login remotely to the virtual machine using "Remote Desktop Connection". Toggle back to Azure: Search for "Virtual Machine", select the Virtual Machine that was created, copy the Public IP address and paste into the remote desktop "Computer" text box to login.
 </p>
 <br />
-<h2>Create login for Proton VPN</h2>
+<h2>Remote Desktop to Virtual Machine Contined</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/LziFGOW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Ensure that all privacy settings are turned off, open a web browser in the virtual machine, and toggle to "WhatIsMyIPAddress.com" to collect the IP address for the Virtual Machine.
+</p>
+<br />
+<h2>Download and Install Proton VPN</h2>
+<p>
+<img src="https://imgur.com/upsJ48z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open a web browser and search for "Proton VPN".
+</p>
+<br />
+<h2>Download and Install Proton VPN Continued</h2>
+<p>
+<img src="https://imgur.com/J2QrGLL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Select "Download Proton VPN" and follow the steps for the Setup Wizard Configuration. Once completed, open Proton VPN.
+</p>
+<br />
+<h2>Create login for Proton VPN</h2>
+<p>
+<img src="https://imgur.com/I2yfDY0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Select "Create Account" and follow steps to setup login credentials for Proton VPN. Once you have created your account, login to Proton VPN.
 </p>
 <br />
 <h2>Observe VPN connection in Proton VPN</h2>
