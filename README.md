@@ -76,9 +76,9 @@ Select "Create Account" and follow steps to setup login credentials for Proton V
 <br />
 <h2>Observe VPN connection in Proton VPN</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/M1PL8oX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once you have logged in, connect to a VPN in another country. Choose the country of your choice and select "Connect". Next, navigate to whatismyipaddress.com to see the IP address of the VPN and compare the results. 
 </p>
 <br />
