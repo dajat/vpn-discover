@@ -3,7 +3,7 @@
 </p>
 
 <h1>Observing and Understanding Virtual Private Networks</h1>
-In this tutorial, we observe and understand a Virtual Private Network and how it helps to securely link two computers or networks. Also, this explores how different IP address are assigned under different computers. <br />
+In this tutorial, we observe and understand a Virtual Private Network and how it helps to securely link two computers or networks. Also, this tutorial explores how different IP addresses are assigned under different computers. <br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -26,7 +26,6 @@ In this tutorial, we observe and understand a Virtual Private Network and how it
 <h2>Actions and Observations</h2>
 
 <h2>Create Virtual Machine in Azure</h2>
-
 <p>
 <img src="https://imgur.com/31xtyEZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
