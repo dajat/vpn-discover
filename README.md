@@ -2,8 +2,8 @@
 <img src="https://imgur.com/pLHPMdJ.png" alt="VPN"/>
 </p>
 
-<h1>Observing and Understanding Virtual Private Networks</h1>
-In this tutorial, we observe and understand a Virtual Private Network and how it helps to securely link two computers or networks. Also, this tutorial explores how different IP addresses are assigned under different computers. <br />
+<h1>The Importance of Virtual Private Networks</h1>
+In this tutorial, we observe and understand a Virtual Private Network and how it helps to securely link two computers or networks. Also, this tutorial explores how different IP addresses are assigned to different computers. <br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -18,9 +18,9 @@ In this tutorial, we observe and understand a Virtual Private Network and how it
 
 <h2>High-Level Steps</h2>
 
-- Create Virtual Machine in Azure
+- Create a Virtual Machine in Azure
 - Remote Desktop to Virtual Machine
-- Create login for Proton VPN
+- Create a login for Proton VPN
 - Observe VPN connection in Proton VPN
 
 <h2>Actions and Observations</h2>
@@ -30,7 +30,7 @@ In this tutorial, we observe and understand a Virtual Private Network and how it
 <img src="https://imgur.com/31xtyEZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Login to Microsoft Azure to create a Virtual Machine. Search for "Virtual Machine" in Azure, select "Create and "Azure Virtual Machine". Next, "Create a Resource Group" and add the virtual machine name, region, image (operating system), and size of the virtual machine. Next, open a browser to whatismyipaddress.com and take note of the IP address.
+Login to Microsoft Azure to create a Virtual Machine. Search for "Virtual Machine" in Azure, and select "Create --> "Azure Virtual Machine". Next, "Create a Resource Group" and add the virtual machine name, region, image (operating system), and size of the virtual machine. Next, open a browser to whatismyipaddress.com and take note of the IP address.
 </p>
 <br />
 <h2>Remote Desktop to Virtual Machine</h2>
@@ -38,7 +38,7 @@ Login to Microsoft Azure to create a Virtual Machine. Search for "Virtual Machin
 <img src="https://imgur.com/GpBqUcv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, login remotely to the virtual machine using "Remote Desktop Connection". Toggle back to Azure: Search for "Virtual Machine", select the Virtual Machine that was created, copy the Public IP address and paste into the remote desktop "Computer" text box to login.
+Next, log in remotely to the virtual machine using "Remote Desktop Connection". Toggle back to Azure: Search for "Virtual Machine", select the Virtual Machine that was created, copy the Public IP address, and paste it into the remote desktop "Computer" text box to log in.
 </p>
 <br />
 <h2>Remote Desktop to Virtual Machine Contined</h2>
@@ -70,7 +70,7 @@ Select "Download Proton VPN" and follow the steps for the Setup Wizard Configura
 <img src="https://imgur.com/I2yfDY0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Select "Create Account" and follow steps to setup login credentials for Proton VPN. Once you have created your account, login to Proton VPN.
+Select "Create Account" and follow the steps to set up login credentials for Proton VPN. Once you have created your account, log in to Proton VPN.
 </p>
 <br />
 <h2>Observe VPN connection in Proton VPN</h2>
@@ -86,6 +86,6 @@ Once you have logged in, connect to a VPN in another country. Choose the country
 <img src="https://imgur.com/xVDoIAo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After reviewing the IP address and region for the VPN connection, try to browse a website and observe the location and differences of the site based on the VPN server connection (ie. language, URL, and website content). In this tutorial, we can review that the region in located in the Netherlands. After completing the lab, make sure that you delete your resource group in Azure!
+After reviewing the IP address and region for the VPN connection, try to browse a website and observe the location and differences of the site based on the VPN server connection (ie. language, URL, and website content). In this tutorial, we can review that the region is located in the Netherlands. After completing the lab, make sure that you delete your resource group in Azure!
 </p>
 <br />
